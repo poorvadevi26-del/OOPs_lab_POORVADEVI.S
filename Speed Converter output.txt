@@ -1,0 +1,10 @@
+Speed Converter 
+1. m/s to km/h 
+2. km/h to m/s 
+3. km/h to mph 
+4. mph to km/h 
+5. m/s to mph 
+6. mph to m/s 
+Enter your choice: 1 
+Enter speed: 10
+ Result = 36.0 km/h

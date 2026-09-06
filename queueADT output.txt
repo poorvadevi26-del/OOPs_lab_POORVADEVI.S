@@ -1,0 +1,3 @@
+Queue Elements: 10 20 30
+Deleted Element: 10
+Queue Elements: 20 30
