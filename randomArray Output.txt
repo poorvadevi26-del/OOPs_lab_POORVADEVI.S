@@ -1,9 +1,0 @@
-Output:
-Random Array:
-45 12 78 23 56
-
-Ascending Order:
-12 23 45 56 78
-
-Descending Order:
-78 56 45 23 12
