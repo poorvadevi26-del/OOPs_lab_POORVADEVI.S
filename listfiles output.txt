@@ -1,7 +1,0 @@
-Enter directory path: C:\Users\Documents
-
-Files in the directory:
-file1.txt
-file2.txt
-program.java
-notes.docx
